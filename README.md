@@ -1,7 +1,6 @@
 <h2>
-  Greetings😊<br>
-  I'm Ronald Haupt, seasoned Full-stack WEB, Mobile, Desktop & AI application, Blockchain / SMART CONTRACT developer/engineer.<br>
-  I appreciate your attention to me 👍
+  Greetings😊 from RONALD HAUPT<br>
+  I appreciate your attention to me👍
 </h2>
 <h3>
   Based on 🏆6+ years of hands-on experience in developing software including 🎯full-stack web, 🎯AI/Mobile app, 🎯blockchain/smart contract, 🎯desktop app and 🎯2-3D game, I briefly show you my skill-set.
