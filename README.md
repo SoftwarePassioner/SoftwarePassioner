@@ -3,7 +3,7 @@
   I appreciate your attention to us👍
 </h2>
 <h3>
-  Based on 🏆6+ years of hands-on experience in developing software including 🎯full-stack web, 🎯AI/Mobile app, 🎯blockchain/smart contract, 🎯desktop app and 🎯2-3D game, I briefly show you my skill-set.
+  Based on 🏆10+ years of hands-on experience in developing software including 🎯full-stack web, 🎯AI/Mobile app, 🎯blockchain/smart contract, 🎯desktop app and 🎯2-3D game, I briefly show you my skill-set.
 </h3>
 
 <h4>🥇Full-stack web development with completion of 14 projects, using:</h4>
