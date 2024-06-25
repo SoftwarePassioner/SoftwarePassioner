@@ -1,5 +1,5 @@
 <h2>
-  Greetings😊 from Jiners Enoheart<br>
+  Greetings😊 from Marcin Pawlak<br>
   I appreciate your attention to us👍
 </h2>
 <h3>
