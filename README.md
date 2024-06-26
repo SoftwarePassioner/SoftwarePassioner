@@ -1,5 +1,5 @@
 <h2>
-  Greetings😊 from Marcin Pawlak<br>
+  Greetings😊<br>
   I appreciate your attention to us👍
 </h2>
 <h3>
